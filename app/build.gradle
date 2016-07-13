@@ -1,0 +1,40 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.0"
+
+    defaultConfig {
+        applicationId "com.mgodevelopment.personalnotes"
+        minSdkVersion 17
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:24.0.0'
+    compile 'com.android.support:design:24.0.0'
+    compile 'com.android.support:recyclerview-v7:24.0.0'
+    compile 'com.android.support:cardview-v7:24.0.0'
+    compile 'com.google.android.gms:play-services:9.2.1'
+
+    compile ('com.google.http-client:google-http-client-gson:1.22.0') {
+        exclude module: 'httpclient'
+    }
+    compile ('com.google.api-client:google-api-client-android:1.22.0') {
+        exclude module: 'httpclient'
+    }
+    compile ('com.google.apis:google-api-services-drive:v3-rev32-1.22.0') {
+        exclude module: 'httpclient'
+    }
+}
