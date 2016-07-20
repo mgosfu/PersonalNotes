@@ -41,5 +41,9 @@
     <string name="new_directory">Create</string>
     <string name="folder_name">Folder Name</string>
     <string name="is_default">Currently selected default</string>
+    <string name="custom_notes_date_time">DATE AND TIME</string>
+    <string name="custom_notes_title">TITLE</string>
+    <string name="custom_notes_description">DESCRIPTION TO GO HERE</string>
+    <string name="custom_notes_image">Image for note</string>
 
 </resources>
