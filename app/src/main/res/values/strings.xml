@@ -45,5 +45,6 @@
     <string name="custom_notes_title">TITLE</string>
     <string name="custom_notes_description">DESCRIPTION TO GO HERE</string>
     <string name="custom_notes_image">Image for note</string>
+    <string name="title_activity_notes">NotesActivity</string>
 
 </resources>

@@ -11,4 +11,5 @@
     <dimen name="list_text_size">15sp</dimen>
     <dimen name="secondary_text">20sp</dimen>
     <dimen name="drawer_height">48dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
 </resources>
