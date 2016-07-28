@@ -29,6 +29,11 @@
             android:label="@string/title_activity_archives"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
+        <activity
+            android:name=".TrashActivity"
+            android:label="@string/title_activity_trash"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
     </application>
 
 </manifest>
