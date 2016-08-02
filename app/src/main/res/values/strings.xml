@@ -49,5 +49,9 @@
     <string name="title_activity_archives">ArchivesActivity</string>
     <string name="title_activity_trash">TrashActivity</string>
     <string name="dropbox_folder_image">Dropbox Folder Image</string>
+    <string name="new_note">New Note</string>
+    <string name="new_list">New List</string>
+    <string name="new_image">New Image</string>
+    <string name="navigation_item_icon">Navigation Item Icon</string>
 
 </resources>
