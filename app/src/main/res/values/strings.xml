@@ -53,5 +53,8 @@
     <string name="new_list">New List</string>
     <string name="new_image">New Image</string>
     <string name="navigation_item_icon">Navigation Item Icon</string>
+    <string name="back_button">Back Button</string>
+    <string name="save_button">Save Button</string>
+    <string name="add_folder">Add Folder</string>
 
 </resources>
