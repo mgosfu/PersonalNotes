@@ -56,5 +56,11 @@
     <string name="back_button">Back Button</string>
     <string name="save_button">Save Button</string>
     <string name="add_folder">Add Folder</string>
+    <string name="make_note">Make Note</string>
+    <string name="no_time">No Time</string>
+    <string name="image_storage">Image Storage</string>
+    <string name="date_picker_button">Date Picker Button</string>
+    <string name="delete">Delete</string>
+    <string name="menu_add">Menu Add</string>
 
 </resources>
