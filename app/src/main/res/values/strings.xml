@@ -32,7 +32,7 @@
     <string name="title_activity_base_demo">BaseDemo</string>
     <string name="title_activity_create_file">CreateFile</string>
     <string name="title_activity_online_photo_selection">Photo Selection</string>
-    <string name="title_activity_selection_drop_box">DropBox</string>
+    <string name="title_activity_selection_drop_box">Dropbox</string>
     <string name="select">Select</string>
     <string name="log_out">Log out</string>
     <string name="save_location">Select</string>

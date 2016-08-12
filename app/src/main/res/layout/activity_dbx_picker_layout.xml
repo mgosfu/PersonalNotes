@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/notesCardBody"
     android:orientation="vertical"
-    tools:context="com.mgodevelopment.personalnotes.DropboxPickerActivity">
+    tools:context=".DropboxPickerActivity">
 
     <RelativeLayout
         android:id="@+id/relative_top_bar"

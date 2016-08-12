@@ -26,6 +26,6 @@
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:layout_below="@+id/drop_box_directory_name"
-        android:background="@color/notesDropBoxSeparator"/>
+        android:background="@color/notesDropboxSeparator"/>
 
 </RelativeLayout>

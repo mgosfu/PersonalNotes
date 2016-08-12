@@ -8,7 +8,7 @@
     <color name="notesBody">#FAFAFA</color>
     <color name="notesCardBody">#EBEBEB</color>
     <color name="notesSecondaryTextColor">#656565</color>
-    <color name="notesDropBoxSeparator">#C1C1C1</color>
+    <color name="notesDropboxSeparator">#C1C1C1</color>
     <color name="notesSelectionTickColor">#455EDE</color>
     <color name="notesImageBackground">#C1C1C1</color>
 </resources>
